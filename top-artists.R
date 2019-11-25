@@ -26,3 +26,7 @@ spot %>% group_by(artist) %>% count(sort = T)
 # Lana Del Rety - Doin' Time
 # Ariana Grande - imagine
 # Charli XCX - Blame It on Your Love (feat. Lizzo)
+
+# Helpful Tools:
+# https://www.photoresizer.com/
+# https://wordart.com
